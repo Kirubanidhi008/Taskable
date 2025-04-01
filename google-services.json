@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "466456422986",
+    "project_id": "taskable-564e6",
+    "storage_bucket": "taskable-564e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466456422986:android:6c62e66cfd3b58997e14b3",
+        "android_client_info": {
+          "package_name": "com.kiruba.taskable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466456422986-ep7u9sbkdv0ec0iuqad4nrtk0jbfqhhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiruba.taskable",
+            "certificate_hash": "1ce541f334961e3b7d00554a2176a09d225c3b43"
+          }
+        },
+        {
+          "client_id": "466456422986-fr65gvlu0ohqesc4ubqs70odes9ndqu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_XjPqjIE0qR6s_u8hoqGM07APBdJva4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466456422986-fr65gvlu0ohqesc4ubqs70odes9ndqu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466456422986-6af3at5s6k221gqg3ae8pga35l6h49qp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiruba.taskable"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
